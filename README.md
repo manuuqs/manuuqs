@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Soy técnico superior en desarrollo de aplicaciones multiplataforma (DAM) y actuálmente estoy cursando Ingeniería Informática en UNIR.</h2>
+<h2 align="left">I am a senior technician in multiplatform application development (DAM) and I am currently studying Computer Engineering at UNIR.</h2>
 
 ###
 
